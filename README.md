@@ -12,16 +12,20 @@
 
 
 <!--数据统计-->
-<img hspace="5px" width="420px" height="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
+<img hspace="5px" width="480px" height="480px" align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
 
 <!--语言统计-->
-<img width="388px" height="388px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
+<img width="188px" height="188px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
 
 
 
 
 <!--
+// 可用
 
+
+
+// 待定
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haitao9833" />

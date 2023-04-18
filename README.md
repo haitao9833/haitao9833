@@ -28,10 +28,10 @@
 
 
 
-- :orange_book: Focusing on Swift & iOS
+- :orange_book: Focusing on Java & Python
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
-- :meat_on_bone: Meat lover
+- :muscle: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 
 <!--数据统计-->
 <!--语言统计-->

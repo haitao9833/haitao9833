@@ -10,12 +10,17 @@
 <br>
 <img src="https://img.shields.io/badge/weibo-唉呦呵喂-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
 <br>
-<img src="https://img.shields.io/badge/Java-算法-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
-<img src="https://img.shields.io/badge/Java-设计模式-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
-  
-![](https://img.shields.io/badge/Java-%E7%AE%97%E6%B3%95-ff69b4)
-![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
-
+<img src="https://img.shields.io/badge/Java-算法-ff5722.svg?colorA=FFB6C1&colorB=00EE00" />
+<img src="https://img.shields.io/badge/Java-设计模式-ff5722.svg?colorA=FFB6C1&colorB=00EE00" />
+<img src="https://img.shields.io/badge/Java-源码-ff5722.svg?colorA=FFB6C1&colorB=00EE00" />
+<img src="https://img.shields.io/badge/Java-Stream 流-ff5722.svg?colorA=FFB6C1&colorB=00EE00" />
+<img src="https://img.shields.io/badge/Java-正则表达式-ff5722.svg?colorA=FFB6C1&colorB=00EE00" />
+<img src="https://img.shields.io/badge/Java-类与对象-ff5722.svg?colorA=FFB6C1&colorB=00EE00" />
+<br>
+<img src="https://img.shields.io/badge/Python-神经网络-ff5722.svg?colorA=FFB6C1&colorB=ff69b4" />
+<img src="https://img.shields.io/badge/Python-深度学习-ff5722.svg?colorA=FFB6C1&colorB=ff69b4" />
+<img src="https://img.shields.io/badge/Python-Jupyter Notebook-ff5722.svg?colorA=FFB6C1&colorB=ff69b4" />
+<img src="https://img.shields.io/badge/Python-MathBert-ff5722.svg?colorA=FFB6C1&colorB=ff69b4" />
 
 </div>
 

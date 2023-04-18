@@ -4,7 +4,11 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=前沿革命🌏文质彬彬🦄蘧瑗知非&center=true&size=27"></h1>
 
 
+
 ## Hi there 👋
+![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
+![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
+
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
@@ -17,10 +21,10 @@
   <img hspace="0px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
 </div>
 
+
+
 <!--
 // 可用
-
-
 
 // 待定
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>

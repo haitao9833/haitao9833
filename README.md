@@ -10,13 +10,10 @@
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
-
-<table frame="void" border="0">
-  <tr>
-    <td><img hspace="20px" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" /></td>
-    <td><img hspace="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <img hspace="10px" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
+  <img hspace="5px" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
+</div>
 
 <!--数据统计-->
 

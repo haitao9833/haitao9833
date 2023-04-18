@@ -5,9 +5,9 @@
 
 
 <div align="center">
-<img src="https://img.shields.io/badge/生活-健身-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
-<img src="https://img.shields.io/badge/读书-《孙子兵法》-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
-<img src="https://img.shields.io/badge/读书-《论语》-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
+<img src="https://img.shields.io/badge/生活-健身-ff5722.svg?colorA=FFB6C1&colorB=4B0082&style=flat-square" />
+<img src="https://img.shields.io/badge/读书-《孙子兵法》-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=angular&style=for-the-badge" />
+<img src="https://img.shields.io/badge/读书-《论语》-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=angular&style=for-the-badge" />
 <br>
 <img src="https://img.shields.io/badge/Java-源码-ff5722.svg?colorB=00CD00" />
 <img src="https://img.shields.io/badge/Java-Stream 流-ff5722.svg?colorB=00CD00" />

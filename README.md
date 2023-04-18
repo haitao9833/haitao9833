@@ -32,7 +32,8 @@
   <img hspace="0px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
 </div>
 
-<div align="center"> <img src="https://metrics.lecoq.io/haitao9833?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/haitao9833?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&calendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&calendar=false&calendar.limit=1&config.timezone=Asia%2FShanghai"> </div>
+
 
 <!--
 // 可用

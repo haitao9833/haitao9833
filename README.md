@@ -4,10 +4,17 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=前沿革命🌏文质彬彬🦄蘧瑗知非&center=true&size=27"></h1>
 
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/weibo-唉呦呵喂-ff5722.svg?colorA=FFB6C1&colorB=4B0082" />
+
+![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
+![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
+</div>
 
 ## Hi there 👋
-![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
-![](https://img.shields.io/badge/%E7%AE%97%E6%B3%95-%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F-brightgreen)
+
+
 
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks

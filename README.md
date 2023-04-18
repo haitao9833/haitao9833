@@ -11,12 +11,18 @@
 - :meat_on_bone: Meat lover
 
 
+<table frame="void" border="0">
+  <tr>
+    <td><img hspace="20px" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" /></td>
+    <td><img hspace="20px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" /></td>
+  </tr>
+</table>
+
 <!--数据统计-->
-<img hspace="20px" width="600px" height="600px" align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
-<br/>
+
 
 <!--语言统计-->
-<img width="433px" height="433px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
+
 
 
 

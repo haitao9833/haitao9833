@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/Python-深度学习-ff5722.svg?colorB=ff69b4" />
 <img src="https://img.shields.io/badge/Python-Jupyter Notebook-ff5722.svg?colorB=ff69b4" />
 
-![Phodal's Title](http://brand.phodal.com/titles/generate/titles/pumpkin.svg)
+
 </div>
 
 ## Hi there 👋
@@ -44,7 +44,7 @@
 
 <!--
 // 可用
-
+![Phodal's Title](http://brand.phodal.com/titles/generate/titles/pumpkin.svg)
 // 待定
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 

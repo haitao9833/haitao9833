@@ -1,34 +1,35 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fffff0" />
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=前%20沿%20革%20命&center=true&size=27"></h1>
 
-
-
-
-### Hi there 👋
-
+## Hi there 👋
 - :orange_book: Focusing on Swift & iOS
 - :hammer: Creator of applications and frameworks
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
 
+<!--数据统计-->
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
 
-
-
+<!--语言统计-->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 
 
 <!--
+
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+
+
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haitao9833" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&theme=dark&layout=compact)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+![Visitor Count](https://profile-counter.glitch.me/haitao9833/count.svg)
 
-
-
-
-
-
+![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=dracula)
 
 **haitao9833/haitao9833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

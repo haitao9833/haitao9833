@@ -1,8 +1,5 @@
-
 <!--居中打印-->
-
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=前沿革命🌏文质彬彬🦄蘧瑗知非&center=true&size=27"></h1>
-
 
 <div align="center">
 <img src="https://img.shields.io/badge/生活-健身-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=underarmour&style=flat-square" />
@@ -20,15 +17,13 @@
 <img src="https://img.shields.io/badge/Python-MathBert-ff5722.svg?colorB=ff69b4" />
 <img src="https://img.shields.io/badge/Python-深度学习-ff5722.svg?colorB=ff69b4" />
 <img src="https://img.shields.io/badge/Python-Jupyter Notebook-ff5722.svg?colorB=ff69b4" />
-
-
 </div>
 
 ## Hi there 👋
 
+- :ideograph_advantage: After military victory, there must be political victory
+- :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 
-- 🉐After military victory, there must be political victory
-- :muscle: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 
 <!--数据统计-->
 <!--语言统计-->
@@ -36,6 +31,8 @@
   <img hspace="12px" width="460" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
   <img hspace="0px" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
 </div>
+
+
 
 <!--
 // 可用

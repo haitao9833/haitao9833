@@ -1,4 +1,8 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=前%20沿%20革%20命&center=true&size=27"></h1>
+
+<!--居中打印-->
+
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=前沿革命🌏文质彬彬🦄蘧瑗知非&center=true&size=27"></h1>
+
 
 ## Hi there 👋
 - :orange_book: Focusing on Swift & iOS
@@ -8,16 +12,17 @@
 
 
 <!--数据统计-->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
+<img hspace="35px" align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
 
 <!--语言统计-->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="194px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
+
+
 
 
 <!--
 
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haitao9833" />
 

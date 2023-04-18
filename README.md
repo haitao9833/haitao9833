@@ -12,10 +12,10 @@
 
 
 <!--数据统计-->
-<img hspace="15px" width="333px" height="333px" align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
+<img hspace="5px" width="420px" height="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7" />
 
 <!--语言统计-->
-<img height="194px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
+<img width="388px" height="388px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff" />
 
 
 

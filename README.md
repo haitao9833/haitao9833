@@ -37,7 +37,7 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=minimal" />
 </div>
 
-<img hspace="50px" src="https://profile-counter.glitch.me/haitao9833/count.svg" />
+<div align="center"><img src="https://profile-counter.glitch.me/haitao9833/count.svg" /></div>
 
 
 

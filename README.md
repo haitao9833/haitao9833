@@ -32,6 +32,10 @@
   <img hspace="0px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=e2f2d5,87E293,78fee0,d280f9" />
 </div>
 
+<div align="center">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=minimal" />
+</div>
+
 
 <!--
 // 可用

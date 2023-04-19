@@ -19,17 +19,19 @@
 <img src="https://img.shields.io/badge/Python-Jupyter Notebook-ff5722.svg?colorB=ff69b4" />
 </div>
 
-# <p align="center"> About Me 👋🥱🥱</p>
+# About Me 👋🥱🥱
 
-<p align="center">:ideograph_advantage: After military victory, there must be political victory</p>
-<p align="center">:ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:</p>
-<p align="center">📫 How to reach me: haitao9833@outlook.com</p>
+- :ideograph_advantage: After military victory, there must be political victory
+- :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
+- 📫 How to reach me: haitao9833@outlook.com
+
+
 
 <!--数据统计-->
 <!--语言统计-->
 <div align="center" style="display: flex;text-align:center;">
-  <img hspace="0px" width="442" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7,fae3d9,ffb6b9,ffeead" />
-  <img hspace="0px" height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=9BD7D5,87E293,AFEAAA,4FD5D6" />
+  <img hspace="0px" width="460" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7,fae3d9,ffb6b9,ffeead" />
+  <img hspace="0px" height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=9BD7D5,87E293,AFEAAA,4FD5D6" />
 </div>
 
 <div align="center">
@@ -39,6 +41,8 @@
 
 
 <!--
+// 标题居中
+# <p align="center"> About Me 👋🥱🥱</p>
 //配色
 e2f2d5,87E293,78fee0,d280f9
 FE8402,87E293,AFEAAA,FF7260

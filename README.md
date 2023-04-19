@@ -29,7 +29,7 @@
 <!--语言统计-->
 <div style="display: flex;text-align:center;">
   <img hspace="5px" width="460" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7,fae3d9,ffb6b9,ffeead" />
-  <img hspace="0px" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=e2f2d5,87E293,78fee0,d280f9" />
+  <img hspace="0px" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=9BD7D5,87E293,AFEAAA,4FD5D6" />
 </div>
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=minimal" />
@@ -38,6 +38,9 @@
 
 
 <!--
+//配色
+e2f2d5,87E293,78fee0,d280f9
+FE8402,87E293,AFEAAA,FF7260
 // 待用
 You are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=haitao9833&left_color=green&right_color=red)
 ![Visitor Count](https://profile-counter.glitch.me/haitao9833/count.svg)

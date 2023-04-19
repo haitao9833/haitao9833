@@ -24,31 +24,23 @@
 - :ideograph_advantage: After military victory, there must be political victory
 - :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 - 📫 How to reach me: haitao9833@outlook.com
-- 
 
 <!--数据统计-->
 <!--语言统计-->
 <div style="display: flex;text-align:center;">
   <img hspace="5px" width="460" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7,fae3d9,ffb6b9,ffeead" />
-  <img hspace="0px" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=e2f2d5,87E293,78fee0,d280f9" />
+  <img hspace="0px" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=e2f2d5,87E293,78fee0,d280f9" />
 </div>
-
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=minimal" />
 </div>
-
 <div align="center"><img src="https://profile-counter.glitch.me/haitao9833/count.svg" /></div>
-
 
 
 <!--
 // 待用
-
 You are my ![visitors](https://visitor-badge.glitch.me/badge?page_id=haitao9833&left_color=green&right_color=red)
-
 ![Visitor Count](https://profile-counter.glitch.me/haitao9833/count.svg)
-
 ![Phodal's Title](http://brand.phodal.com/titles/generate/titles/pumpkin.svg)
-
 <div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->

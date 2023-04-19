@@ -19,11 +19,11 @@
 <img src="https://img.shields.io/badge/Python-Jupyter Notebook-ff5722.svg?colorB=ff69b4" />
 </div>
 
-## Hi there 👋
+# About Me 👋🥱🥱
 
 - :ideograph_advantage: After military victory, there must be political victory
 - :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
-
+- 📫 How to reach me: ...
 
 <!--数据统计-->
 <!--语言统计-->
@@ -36,36 +36,14 @@
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=minimal" />
 </div>
 
+<img hspace="50px" src="https://profile-counter.glitch.me/haitao9833/count.svg" />
+
 
 <!--
-// 可用
-![Phodal's Title](http://brand.phodal.com/titles/generate/titles/pumpkin.svg)
-
-// 待定
-<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
-
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=haitao9833" />
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&theme=dark&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&theme=dark&layout=compact)
-
+// 待用
 ![Visitor Count](https://profile-counter.glitch.me/haitao9833/count.svg)
 
-![Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=dracula)
+![Phodal's Title](http://brand.phodal.com/titles/generate/titles/pumpkin.svg)
 
-**haitao9833/haitao9833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 -->

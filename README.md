@@ -28,8 +28,8 @@
 <!--数据统计-->
 <!--语言统计-->
 <div style="display: flex;text-align:center;">
-  <img hspace="5px" width="460" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7,fae3d9,ffb6b9,ffeead" />
-  <img hspace="0px" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=9BD7D5,87E293,AFEAAA,4FD5D6" />
+  <img hspace="2px" width="460" src="https://github-readme-stats.vercel.app/api?username=haitao9833&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fff7f7,fae3d9,ffb6b9,ffeead" />
+  <img hspace="0px" height="172px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=9BD7D5,87E293,AFEAAA,4FD5D6" />
 </div>
 <div align="center">
     <img src="https://github-readme-activity-graph.cyclic.app/graph?username=haitao9833&theme=minimal" />

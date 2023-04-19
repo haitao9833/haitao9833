@@ -31,7 +31,7 @@
 <!--语言统计-->
 <div align="center" style="display: flex;text-align:center;">
   <img hspace="0px" height="182px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=39BAE8,83FFE6,8dfcfb,dcc9f8" />
-  <img hspace="0px" width="430" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,A2FAA3" />
+  <img hspace="0px" width="430" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,fffc4d,52fa5a" />
 </div>
 
 <div align="center">
@@ -44,6 +44,8 @@
 // 标题居中
 # <p align="center"> About Me 👋🥱🥱</p>
 //配色
+fce8d8,FCF4D9,fff4c5,F71E35
+fce8d8,FCF4D9,fff4c5,A2FAA3
 fff7f7,fae3d9,ffb6b9,ffeead
 9BD7D5,87E293,AFEAAA,4FD5D6
 e2f2d5,87E293,78fee0,d280f9

@@ -30,8 +30,8 @@
 <!--数据统计-->
 <!--语言统计-->
 <div align="center" style="display: flex;text-align:center;">
-  <img hspace="0px" height="182px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=39BAE8,83FFE6,8dfcfb,dcc9f8" />
-  <img hspace="0px" width="430" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,fffc4d,52fa5a" />
+  <img hspace="0px" height="186px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=39BAE8,83FFE6,8dfcfb,dcc9f8" />
+  <img hspace="0px" width="415" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,fffc4d,52fa5a" />
 </div>
 
 <div align="center">

@@ -45,6 +45,11 @@
 
 ![MathBERT](framework.jpg)
 
+
+# Star History 🌟
+[![Star History Chart](https://api.star-history.com/svg?repos=haitao9833/haitaoLeetCode&type=Date)](https://star-history.com/#haitao9833/haitaoLeetCode&Date)
+
+
 <!--
 // 标题居中
 # <p align="center"> About Me 👋🥱🥱</p>

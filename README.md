@@ -5,6 +5,7 @@
 <img src="https://img.shields.io/badge/生活-健身-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=underarmour&style=flat-square" />
 <img src="https://img.shields.io/badge/读书-《孙子兵法》-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=mdbook&style=flat-square" />
 <img src="https://img.shields.io/badge/读书-《论语》-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=mdbook&style=flat-square" />
+  <img src="https://img.shields.io/badge/笔记-英语口语-ff5722.svg?colorA=FFB6C1&colorB=4B0082&logo=microsoftonenote&style=flat-square" />
 <br>
 <img src="https://img.shields.io/badge/Java-源码-ff5722.svg?colorB=00CD00" />
 <img src="https://img.shields.io/badge/Java-Stream 流-ff5722.svg?colorB=00CD00" />

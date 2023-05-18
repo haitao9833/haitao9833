@@ -26,8 +26,6 @@
 - :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 - 📫 How to reach me: haitao9833@outlook.com
 
-
-
 <!--语言统计 + 数据统计-->
 <div align="center" style="display: flex;text-align:center;">
   <img hspace="0px" height="183px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haitao9833&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=39BAE8,83FFE6,8dfcfb,dcc9f8" />
@@ -47,8 +45,18 @@
 ![MathBERT](framework.jpg)
 
 
+<!-- 
 # Star History 🌟
-[![Star History Chart](https://api.star-history.com/svg?repos=haitao9833/haitaoLeetCode&type=Date)](https://star-history.com/#haitao9833/haitaoLeetCode&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=haitao9833/haitaoLeetCode&type=Date)](https://star-history.com/#haitao9833/haitaoLeetCode&Date) 
+-->
+
+# About Me 👋🥱🥱
+
+<img hspace="0px" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,fff4c5,52fa5a" alt="logo" witdth="440" height="160" align="right" style="margin: 50px; margin-bottom: 20px;" />
+
+- :ideograph_advantage: After military victory, there must be political victory
+- :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
+- 📫 How to reach me: haitao9833@outlook.com
 
 
 <!--

@@ -20,6 +20,10 @@
 <img src="https://img.shields.io/badge/Python-Jupyter Notebook-ff5722.svg?colorB=ff69b4" />
 </div>
 
+# My Pins
+
+<a href="https://github.com/haitao9833/haitaoPython"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=haitao9833&repo=haitaoPython&theme=yeblu&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+
 # About Me 👋🥱🥱  
 
 - :ideograph_advantage: After military victory, there must be political victory

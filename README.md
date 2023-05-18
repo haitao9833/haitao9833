@@ -48,16 +48,16 @@
 <!-- 
 # Star History 🌟
 [![Star History Chart](https://api.star-history.com/svg?repos=haitao9833/haitaoLeetCode&type=Date)](https://star-history.com/#haitao9833/haitaoLeetCode&Date) 
--->
 
 # About Me 👋🥱🥱
 
-<img hspace="0px" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,fff4c5,52fa5a" alt="logo" witdth="440" height="160" align="right" style="margin: 50px; margin-bottom: 20px;" />
+<img hspace="0px" width="540" src="https://github-readme-stats.vercel.app/api?username=haitao9833&hide_border=true&show_icons=true&icon_color=CE1D2D&text_color=000000&bg_color=fce8d8,FCF4D9,fff4c5,fff4c5,52fa5a" alt="logo" align="right" style="margin: 50px; margin-bottom: 20px;" />
 
 - :ideograph_advantage: After military victory, there must be political victory
 - :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 - 📫 How to reach me: haitao9833@outlook.com
-
+- <img src="https://profile-counter.glitch.me/haitao9833/count.svg" />
+-->
 
 <!--
 // 标题居中

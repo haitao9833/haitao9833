@@ -22,6 +22,8 @@
 
 # About Me 👋🥱🥱
 
+<img src="https://profile-counter.glitch.me/haitao9833/count.svg" align="right"  />
+
 - :ideograph_advantage: After military victory, there must be political victory
 - :ideograph_advantage: Fitness and Meat lover :egg::egg::egg::cut_of_meat::cut_of_meat::cut_of_meat::milk_glass::milk_glass::milk_glass:
 - 📫 How to reach me: haitao9833@outlook.com
@@ -43,6 +45,17 @@
 ### <p align="center">《Improving Math Word Problems Solver with Logical Semantic Similarity》</p>
 
 ![MathBERT](framework.jpg)
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- 
